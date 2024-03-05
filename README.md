@@ -1,2 +1,2 @@
 # quant
-quantification
+stock quantification library.
